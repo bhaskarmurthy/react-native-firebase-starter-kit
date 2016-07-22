@@ -14,9 +14,15 @@ Cross-platform React Native app with Firebase integration
 6. Install dependencies - `npm install`
 
 ### iOS
-1. Install Xcode is via the Mac App Store (https://itunes.apple.com/us/app/xcode/id497799835?mt=12)
+1. Install **Xcode** via the Mac App Store (https://itunes.apple.com/us/app/xcode/id497799835?mt=12)
+2. Install **cocoapods** - `sudo gem install cocoapods`
 2. Run application - `react-native run-ios`
 
 ### Android
-1.  Install Android Studio (https://developer.android.com/studio/install.html)
+1.  Install **Android Studio** (https://developer.android.com/studio/install.html)
 2.  Run application - `react-native run-android`
+
+### Firebase
+1. Create **Firebase** project (https://console.firebase.google.com/)
+2. Follow instructions to **Add Firebase to your iOS app**
+3. Follow instructions to **Add Firebase to your Android app**
